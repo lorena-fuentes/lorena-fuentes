@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lorena-fuentes
+- 👋 Hi, I’m @yasmin/velasquez
 - 👀 I’m interested in subir mi página web.
 - 🌱 I’m currently learning computación.
 - 💞️ I’m looking to collaborate on no se
